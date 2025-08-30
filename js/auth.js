@@ -60,18 +60,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     localStorage.setItem("userId", user.uid);
                     localStorage.setItem("userEmail", user.email);
 
-                    // document.getElementById('login-message').innerText = "Logged In Successfully";
-                    // alert('Logged In Successfully');
                     showLoginSuccess();
                     window.location.href = "index.html";
                 } else {
-                    // document.getElementById('login-message').innerText = "User data not found!"
                     showError("User data not found!");
                 }
             } catch (error) {
-                // document.getElementById('login-message').innerText = "Incorrect email or password!"
                 showError("Incorrect email or password!");
-
                 console.log(error.message);
             }
         })
@@ -97,11 +92,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     prescriptions: []
                 }
                 await setDoc(doc(fs, "users", userCredentials.user.uid), userObject)
-                // document.getElementById('signup-message').innerText = "Registered Successfully"
                 showRegisterSuccess();
                 window.location.href = "login.html"
             } catch (error) {
-                // document.getElementById('signup-message').innerText = "Something went wrong!"
                 showError("Something went wrong!");
                 console.log(error.message);
             }

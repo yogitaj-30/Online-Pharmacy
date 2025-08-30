@@ -53,6 +53,12 @@ header {
   z-index: 100;
 }
 
+.greeting-text {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: medium;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -315,7 +321,6 @@ footer {
     flex-direction: column;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(8px);
-    color: #333;
     position: absolute;
     top: 60px;
     right: 0;
@@ -328,6 +333,11 @@ footer {
   .nav-links .btn {
     color: #333;
     margin: 10px 0;
+  }
+
+  .nav-links .btn {
+    margin-left: 0;
+    padding: 0;
   }
 
   .hamburger {
