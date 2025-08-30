@@ -16,22 +16,24 @@
     <header>
         <nav class="navbar">
             <h1>💊Charmacy</h1>
-            <button class="hamburger" id="hamburger">
-                ☰
-            </button>
-            <div class="nav-links" id="navLinks">
-                <a href="./index.html">Home</a>
-                <a href="./medicines.html">All Medicines</a>
-                <a href="./cart.html">Cart</a>
+            <div style="display: flex; flex-direction:row; justify-content:space-between; align-items:center; gap:10px">
+                <span id="greetingText" class="greeting-text"></span>
+                <button class="hamburger" id="hamburger">
+                    ☰
+                </button>
+                <div class="nav-links" id="navLinks">
+                    <a href="./index.html">Home</a>
+                    <a href="./medicines.html">All Medicines</a>
+                    <a href="./cart.html">Cart</a>
 
-                <span id="authSection">
-                    <a href="./login.html" id="loginLink">Login</a>
-                </span>
+                    <span id="authSection">
+                        <a href="./login.html" id="loginLink">Login</a>
+                    </span>
 
-                <span id="userSection" style="display: none;">
-                    <span id="greetingText"></span>
-                    <button id="logout-btn" class="btn">Logout</button>
-                </span>
+                    <span id="userSection" style="display: none;">
+                        <button id="logout-btn" class="btn">Logout</button>
+                    </span>
+                </div>
             </div>
         </nav>
     </header>
