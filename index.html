@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="./images/favicon.ico" />
+    <link rel="stylesheet" href="./css/index.css">
+    <title>Charmacy</title>
+</head>
+
+<body>
+    <!-- HEADER -->
+    <header>
+        <nav class="navbar">
+            <h1>💊Charmacy</h1>
+            <button class="hamburger" id="hamburger">
+                ☰
+            </button>
+            <div class="nav-links" id="navLinks">
+                <a href="./index.html">Home</a>
+                <a href="./medicines.html">All Medicines</a>
+                <a href="./cart.html">Cart</a>
+
+                <span id="authSection">
+                    <a href="./login.html" id="loginLink">Login</a>
+                </span>
+
+                <span id="userSection" style="display: none;">
+                    <span id="greetingText"></span>
+                    <button id="logout-btn" class="btn">Logout</button>
+                </span>
+            </div>
+        </nav>
+    </header>
+
+    <!-- SEARCH SECTION -->
+    <section id="searchContainer">
+        <div class="search-header">
+            <h2>What are you looking for?</h2>
+            <div class="upload-link">
+                <span>Order with prescription.</span>
+                <button id="uploadBtn" class="btn">Upload Now</button>
+                <input type="file" id="prescriptionUpload" accept=".jpg, .jpeg, .png, .pdf" hidden />
+                <p id="fileName" class="file-name"></p>
+            </div>
+        </div>
+
+        <div class="search-bar">
+            <div class="search-input-wrapper">
+                <input type="text" id="searchMed" placeholder="Search for medicines/healthcare products">
+                <ul id="suggestionList" class="suggestion-box" style="display: none;"></ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- FEATURED MEDICINES -->
+    <section id="featured-medicines">
+        <h3>Popular Medicines</h3>
+        <div class="medicine-grid">
+            <div class="medicine-card">
+                <img src="./images/PfizerParacetamol500mgFilmCoatedTablets24Pack.webp" alt="">
+                <h4>Paracetamol 500mg</h4>
+                <p>₹50</p>
+                <button class="btn">Add to Cart</button>
+            </div>
+            <div class="medicine-card">
+                <img src="./images/12c99cd1-f9c0-4967-ab9f-f0ad68797d9a.png" alt="">
+                <h4>Dolo 650</h4>
+                <p>₹150</p>
+                <button class="btn">Add to Cart</button>
+            </div>
+            <div class="medicine-card">
+                <img src="./images/ecosprin-gold-10-capsule-15_ecosprin-gold-10-capsule-15--TM-TACR1-012747_1.webp"
+                    alt="">
+                <h4>Ecosprin GOLD 10</h4>
+                <p>₹139</p>
+                <button class="btn">Add to Cart</button>
+            </div>
+            <div class="medicine-card">
+                <img src="./images/evion-400-capsule-20_evion-400-capsule-20--TM-CACR1-013095_1.avif" alt="">
+                <h4>Evion 400</h4>
+                <p>₹378</p>
+                <button class="btn">Add to Cart</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- CATEGORIES -->
+    <section id="categories">
+        <h3>Shop by Category</h3>
+        <div class="category-grid">
+            <div class="category-card">
+                <img src="https://images.healthshots.com/healthshots/en/uploads/2023/04/12004752/pain-1.jpg" alt="">
+                <p>Pain Relief</p>
+            </div>
+            <div class="category-card">
+                <img src="https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/01/07135116/vitamin-capsules-benefits.jpg"
+                    alt="">
+                <p>Vitamins</p>
+            </div>
+            <div class="category-card">
+                <img src="https://www.centenary.org.au/wp-content/uploads/2020/12/hand-holding-blood-glucose-meter-measuring-blood-sugar-background-is-stethoscope-chart-file-2-972x625.jpg"
+                    alt="">
+                <p>Diabetes Care</p>
+            </div>
+            <div class="category-card">
+                <img src="https://www.herbaldynamicsbeauty.com/cdn/shop/articles/daily_guide_to_better_skincare_2000x.jpg?v=1624918418"
+                    alt="">
+                <p>Skin Care</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- WHY CHOOSE US -->
+    <section id="why-choose-us">
+        <h3>Why Choose Charmacy?</h3>
+        <ul>
+            <li>✅ 100% Genuine Medicines</li>
+            <li>✅ Easy Prescription Upload</li>
+            <li>✅ Fast and Safe Delivery</li>
+        </ul>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-links">
+            <a href="#">About Us</a>
+            <a href="#">Contact</a>
+            <a href="#">Terms & Conditions</a>
+            <a href="#">Social Media</a>
+        </div>
+        <p>&copy; 2025 Charmacy. All rights reserved.</p>
+    </footer>
+
+    <script type="module" src="./js/navbar.js"></script>
+    <script type="module" src="./js/index.js"></script>
+</body>
+
+</html>

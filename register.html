@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link rel="stylesheet" href="./css/loginReg.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf/notyf.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/notyf/notyf.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Sign Up</h2>
+        <form id="signupForm">
+            <input type="text" id="signupName" placeholder="Enter your name" required>
+            <input type="email" name="" id="signupEmail" placeholder="Enter email" required autocomplete="email">
+            <input type="password" name="" id="signupPassword" placeholder="Enter password" required
+                autocomplete="current-password">
+            <select name="" id="role">
+                <option value="user">User</option>
+                <option value="admin">Admin</option>
+            </select>
+            <button type="submit">Sign Up</button>
+        </form>
+        <p id="signup-message"></p>
+        <p>Already have an account? <a href="./login.html">Login</a></p>
+    </div>
+    <script type="module" src="./js/auth.js"></script>
+</body>
+
+</html>

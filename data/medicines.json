@@ -1,0 +1,3202 @@
+[
+    {
+      "id": 1,
+      "name": "Allopurinol",
+      "price": 717,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,1",
+      "currency": "INR"
+    },
+    {
+      "id": 2,
+      "name": "Clopidogrel",
+      "price": 1066,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,2",
+      "currency": "INR"
+    },
+    {
+      "id": 3,
+      "name": "Cetirizine",
+      "price": 290,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,3",
+      "currency": "INR"
+    },
+    {
+      "id": 4,
+      "name": "Losartan",
+      "price": 254,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,4",
+      "currency": "INR"
+    },
+    {
+      "id": 5,
+      "name": "Sertraline",
+      "price": 366,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,5",
+      "currency": "INR"
+    },
+    {
+      "id": 6,
+      "name": "Paracetamol",
+      "price": 649,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,6",
+      "currency": "INR"
+    },
+    {
+      "id": 7,
+      "name": "Aspirin",
+      "price": 1116,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,7",
+      "currency": "INR"
+    },
+    {
+      "id": 8,
+      "name": "Gabapentin",
+      "price": 706,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,8",
+      "currency": "INR"
+    },
+    {
+      "id": 9,
+      "name": "Amoxicillin",
+      "price": 1576,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,9",
+      "currency": "INR"
+    },
+    {
+      "id": 10,
+      "name": "Fluoxetine",
+      "price": 712,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,10",
+      "currency": "INR"
+    },
+    {
+      "id": 11,
+      "name": "Ibuprofen",
+      "price": 1353,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,11",
+      "currency": "INR"
+    },
+    {
+      "id": 12,
+      "name": "Allopurinol",
+      "price": 861,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,12",
+      "currency": "INR"
+    },
+    {
+      "id": 13,
+      "name": "Ciprofloxacin",
+      "price": 489,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,13",
+      "currency": "INR"
+    },
+    {
+      "id": 14,
+      "name": "Naproxen",
+      "price": 1472,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,14",
+      "currency": "INR"
+    },
+    {
+      "id": 15,
+      "name": "Ranitidine",
+      "price": 833,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,15",
+      "currency": "INR"
+    },
+    {
+      "id": 16,
+      "name": "Doxycycline",
+      "price": 926,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,16",
+      "currency": "INR"
+    },
+    {
+      "id": 17,
+      "name": "Fluoxetine",
+      "price": 1010,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,17",
+      "currency": "INR"
+    },
+    {
+      "id": 18,
+      "name": "Simvastatin",
+      "price": 1594,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,18",
+      "currency": "INR"
+    },
+    {
+      "id": 19,
+      "name": "Prednisone",
+      "price": 391,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,19",
+      "currency": "INR"
+    },
+    {
+      "id": 20,
+      "name": "Ranitidine",
+      "price": 1490,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,20",
+      "currency": "INR"
+    },
+    {
+      "id": 21,
+      "name": "Ibuprofen",
+      "price": 1144,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,21",
+      "currency": "INR"
+    },
+    {
+      "id": 22,
+      "name": "Gabapentin",
+      "price": 956,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,22",
+      "currency": "INR"
+    },
+    {
+      "id": 23,
+      "name": "Ranitidine",
+      "price": 1476,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,23",
+      "currency": "INR"
+    },
+    {
+      "id": 24,
+      "name": "Prednisone",
+      "price": 678,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,24",
+      "currency": "INR"
+    },
+    {
+      "id": 25,
+      "name": "Doxycycline",
+      "price": 357,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,25",
+      "currency": "INR"
+    },
+    {
+      "id": 26,
+      "name": "Prednisone",
+      "price": 1654,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,26",
+      "currency": "INR"
+    },
+    {
+      "id": 27,
+      "name": "Levothyroxine",
+      "price": 622,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,27",
+      "currency": "INR"
+    },
+    {
+      "id": 28,
+      "name": "Metformin",
+      "price": 1528,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,28",
+      "currency": "INR"
+    },
+    {
+      "id": 29,
+      "name": "Gabapentin",
+      "price": 1120,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,29",
+      "currency": "INR"
+    },
+    {
+      "id": 30,
+      "name": "Tramadol",
+      "price": 612,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,30",
+      "currency": "INR"
+    },
+    {
+      "id": 31,
+      "name": "Amoxicillin",
+      "price": 808,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,31",
+      "currency": "INR"
+    },
+    {
+      "id": 32,
+      "name": "Tramadol",
+      "price": 1096,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,32",
+      "currency": "INR"
+    },
+    {
+      "id": 33,
+      "name": "Ibuprofen",
+      "price": 1296,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,33",
+      "currency": "INR"
+    },
+    {
+      "id": 34,
+      "name": "Losartan",
+      "price": 296,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,34",
+      "currency": "INR"
+    },
+    {
+      "id": 35,
+      "name": "Ranitidine",
+      "price": 1262,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,35",
+      "currency": "INR"
+    },
+    {
+      "id": 36,
+      "name": "Hydrochlorothiazide",
+      "price": 505,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,36",
+      "currency": "INR"
+    },
+    {
+      "id": 37,
+      "name": "Loratadine",
+      "price": 864,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,37",
+      "currency": "INR"
+    },
+    {
+      "id": 38,
+      "name": "Azithromycin",
+      "price": 852,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,38",
+      "currency": "INR"
+    },
+    {
+      "id": 39,
+      "name": "Azithromycin",
+      "price": 1610,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,39",
+      "currency": "INR"
+    },
+    {
+      "id": 40,
+      "name": "Loratadine",
+      "price": 1585,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,40",
+      "currency": "INR"
+    },
+    {
+      "id": 41,
+      "name": "Pantoprazole",
+      "price": 1589,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,41",
+      "currency": "INR"
+    },
+    {
+      "id": 42,
+      "name": "Tamsulosin",
+      "price": 1228,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,42",
+      "currency": "INR"
+    },
+    {
+      "id": 43,
+      "name": "Azithromycin",
+      "price": 571,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,43",
+      "currency": "INR"
+    },
+    {
+      "id": 44,
+      "name": "Hydrochlorothiazide",
+      "price": 1384,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,44",
+      "currency": "INR"
+    },
+    {
+      "id": 45,
+      "name": "Sertraline",
+      "price": 407,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,45",
+      "currency": "INR"
+    },
+    {
+      "id": 46,
+      "name": "Aspirin",
+      "price": 1317,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,46",
+      "currency": "INR"
+    },
+    {
+      "id": 47,
+      "name": "Ciprofloxacin",
+      "price": 1259,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,47",
+      "currency": "INR"
+    },
+    {
+      "id": 48,
+      "name": "Azithromycin",
+      "price": 1553,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,48",
+      "currency": "INR"
+    },
+    {
+      "id": 49,
+      "name": "Doxycycline",
+      "price": 906,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,49",
+      "currency": "INR"
+    },
+    {
+      "id": 50,
+      "name": "Ranitidine",
+      "price": 696,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,50",
+      "currency": "INR"
+    },
+    {
+      "id": 51,
+      "name": "Pantoprazole",
+      "price": 1287,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,51",
+      "currency": "INR"
+    },
+    {
+      "id": 52,
+      "name": "Cetirizine",
+      "price": 1155,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,52",
+      "currency": "INR"
+    },
+    {
+      "id": 53,
+      "name": "Allopurinol",
+      "price": 663,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,53",
+      "currency": "INR"
+    },
+    {
+      "id": 54,
+      "name": "Losartan",
+      "price": 1123,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,54",
+      "currency": "INR"
+    },
+    {
+      "id": 55,
+      "name": "Losartan",
+      "price": 997,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,55",
+      "currency": "INR"
+    },
+    {
+      "id": 56,
+      "name": "Ibuprofen",
+      "price": 871,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,56",
+      "currency": "INR"
+    },
+    {
+      "id": 57,
+      "name": "Tamsulosin",
+      "price": 826,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,57",
+      "currency": "INR"
+    },
+    {
+      "id": 58,
+      "name": "Cetirizine",
+      "price": 911,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,58",
+      "currency": "INR"
+    },
+    {
+      "id": 59,
+      "name": "Furosemide",
+      "price": 566,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,59",
+      "currency": "INR"
+    },
+    {
+      "id": 60,
+      "name": "Tamsulosin",
+      "price": 1015,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,60",
+      "currency": "INR"
+    },
+    {
+      "id": 61,
+      "name": "Atorvastatin",
+      "price": 889,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,61",
+      "currency": "INR"
+    },
+    {
+      "id": 62,
+      "name": "Ibuprofen",
+      "price": 922,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,62",
+      "currency": "INR"
+    },
+    {
+      "id": 63,
+      "name": "Losartan",
+      "price": 822,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,63",
+      "currency": "INR"
+    },
+    {
+      "id": 64,
+      "name": "Cetirizine",
+      "price": 868,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,64",
+      "currency": "INR"
+    },
+    {
+      "id": 65,
+      "name": "Amoxicillin",
+      "price": 789,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,65",
+      "currency": "INR"
+    },
+    {
+      "id": 66,
+      "name": "Cetirizine",
+      "price": 1649,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,66",
+      "currency": "INR"
+    },
+    {
+      "id": 67,
+      "name": "Amoxicillin",
+      "price": 480,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,67",
+      "currency": "INR"
+    },
+    {
+      "id": 68,
+      "name": "Gabapentin",
+      "price": 393,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,68",
+      "currency": "INR"
+    },
+    {
+      "id": 69,
+      "name": "Pantoprazole",
+      "price": 401,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,69",
+      "currency": "INR"
+    },
+    {
+      "id": 70,
+      "name": "Diazepam",
+      "price": 1125,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,70",
+      "currency": "INR"
+    },
+    {
+      "id": 71,
+      "name": "Levothyroxine",
+      "price": 824,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,71",
+      "currency": "INR"
+    },
+    {
+      "id": 72,
+      "name": "Hydrochlorothiazide",
+      "price": 463,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,72",
+      "currency": "INR"
+    },
+    {
+      "id": 73,
+      "name": "Naproxen",
+      "price": 716,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,73",
+      "currency": "INR"
+    },
+    {
+      "id": 74,
+      "name": "Paracetamol",
+      "price": 1515,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,74",
+      "currency": "INR"
+    },
+    {
+      "id": 75,
+      "name": "Diazepam",
+      "price": 1267,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,75",
+      "currency": "INR"
+    },
+    {
+      "id": 76,
+      "name": "Ranitidine",
+      "price": 791,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,76",
+      "currency": "INR"
+    },
+    {
+      "id": 77,
+      "name": "Paracetamol",
+      "price": 1604,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,77",
+      "currency": "INR"
+    },
+    {
+      "id": 78,
+      "name": "Tramadol",
+      "price": 770,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,78",
+      "currency": "INR"
+    },
+    {
+      "id": 79,
+      "name": "Omeprazole",
+      "price": 1312,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,79",
+      "currency": "INR"
+    },
+    {
+      "id": 80,
+      "name": "Aspirin",
+      "price": 875,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,80",
+      "currency": "INR"
+    },
+    {
+      "id": 81,
+      "name": "Ibuprofen",
+      "price": 1060,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,81",
+      "currency": "INR"
+    },
+    {
+      "id": 82,
+      "name": "Aspirin",
+      "price": 706,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,82",
+      "currency": "INR"
+    },
+    {
+      "id": 83,
+      "name": "Metoprolol",
+      "price": 399,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,83",
+      "currency": "INR"
+    },
+    {
+      "id": 84,
+      "name": "Hydrochlorothiazide",
+      "price": 1508,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,84",
+      "currency": "INR"
+    },
+    {
+      "id": 85,
+      "name": "Prednisone",
+      "price": 1521,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,85",
+      "currency": "INR"
+    },
+    {
+      "id": 86,
+      "name": "Hydrochlorothiazide",
+      "price": 1120,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,86",
+      "currency": "INR"
+    },
+    {
+      "id": 87,
+      "name": "Clopidogrel",
+      "price": 1389,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,87",
+      "currency": "INR"
+    },
+    {
+      "id": 88,
+      "name": "Azithromycin",
+      "price": 796,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,88",
+      "currency": "INR"
+    },
+    {
+      "id": 89,
+      "name": "Furosemide",
+      "price": 1080,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,89",
+      "currency": "INR"
+    },
+    {
+      "id": 90,
+      "name": "Prednisone",
+      "price": 595,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,90",
+      "currency": "INR"
+    },
+    {
+      "id": 91,
+      "name": "Tramadol",
+      "price": 1536,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,91",
+      "currency": "INR"
+    },
+    {
+      "id": 92,
+      "name": "Doxycycline",
+      "price": 701,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,92",
+      "currency": "INR"
+    },
+    {
+      "id": 93,
+      "name": "Losartan",
+      "price": 521,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,93",
+      "currency": "INR"
+    },
+    {
+      "id": 94,
+      "name": "Omeprazole",
+      "price": 530,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,94",
+      "currency": "INR"
+    },
+    {
+      "id": 95,
+      "name": "Fluoxetine",
+      "price": 379,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,95",
+      "currency": "INR"
+    },
+    {
+      "id": 96,
+      "name": "Ranitidine",
+      "price": 374,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,96",
+      "currency": "INR"
+    },
+    {
+      "id": 97,
+      "name": "Gabapentin",
+      "price": 413,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,97",
+      "currency": "INR"
+    },
+    {
+      "id": 98,
+      "name": "Tamsulosin",
+      "price": 959,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,98",
+      "currency": "INR"
+    },
+    {
+      "id": 99,
+      "name": "Tramadol",
+      "price": 1028,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,99",
+      "currency": "INR"
+    },
+    {
+      "id": 100,
+      "name": "Allopurinol",
+      "price": 1242,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,100",
+      "currency": "INR"
+    },
+    {
+      "id": 101,
+      "name": "Clopidogrel",
+      "price": 544,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,101",
+      "currency": "INR"
+    },
+    {
+      "id": 102,
+      "name": "Metformin",
+      "price": 307,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,102",
+      "currency": "INR"
+    },
+    {
+      "id": 103,
+      "name": "Furosemide",
+      "price": 653,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,103",
+      "currency": "INR"
+    },
+    {
+      "id": 104,
+      "name": "Tramadol",
+      "price": 1528,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,104",
+      "currency": "INR"
+    },
+    {
+      "id": 105,
+      "name": "Levothyroxine",
+      "price": 961,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,105",
+      "currency": "INR"
+    },
+    {
+      "id": 106,
+      "name": "Loratadine",
+      "price": 883,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,106",
+      "currency": "INR"
+    },
+    {
+      "id": 107,
+      "name": "Cetirizine",
+      "price": 1518,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,107",
+      "currency": "INR"
+    },
+    {
+      "id": 108,
+      "name": "Omeprazole",
+      "price": 754,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,108",
+      "currency": "INR"
+    },
+    {
+      "id": 109,
+      "name": "Naproxen",
+      "price": 343,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,109",
+      "currency": "INR"
+    },
+    {
+      "id": 110,
+      "name": "Loratadine",
+      "price": 919,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,110",
+      "currency": "INR"
+    },
+    {
+      "id": 111,
+      "name": "Tamsulosin",
+      "price": 1314,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,111",
+      "currency": "INR"
+    },
+    {
+      "id": 112,
+      "name": "Pantoprazole",
+      "price": 858,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,112",
+      "currency": "INR"
+    },
+    {
+      "id": 113,
+      "name": "Diazepam",
+      "price": 366,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,113",
+      "currency": "INR"
+    },
+    {
+      "id": 114,
+      "name": "Metoprolol",
+      "price": 416,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,114",
+      "currency": "INR"
+    },
+    {
+      "id": 115,
+      "name": "Paracetamol",
+      "price": 1326,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,115",
+      "currency": "INR"
+    },
+    {
+      "id": 116,
+      "name": "Azithromycin",
+      "price": 349,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,116",
+      "currency": "INR"
+    },
+    {
+      "id": 117,
+      "name": "Levothyroxine",
+      "price": 1563,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,117",
+      "currency": "INR"
+    },
+    {
+      "id": 118,
+      "name": "Ciprofloxacin",
+      "price": 1284,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,118",
+      "currency": "INR"
+    },
+    {
+      "id": 119,
+      "name": "Paracetamol",
+      "price": 838,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,119",
+      "currency": "INR"
+    },
+    {
+      "id": 120,
+      "name": "Diazepam",
+      "price": 1130,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,120",
+      "currency": "INR"
+    },
+    {
+      "id": 121,
+      "name": "Amoxicillin",
+      "price": 889,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,121",
+      "currency": "INR"
+    },
+    {
+      "id": 122,
+      "name": "Amoxicillin",
+      "price": 1057,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,122",
+      "currency": "INR"
+    },
+    {
+      "id": 123,
+      "name": "Prednisone",
+      "price": 278,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,123",
+      "currency": "INR"
+    },
+    {
+      "id": 124,
+      "name": "Ranitidine",
+      "price": 407,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,124",
+      "currency": "INR"
+    },
+    {
+      "id": 125,
+      "name": "Doxycycline",
+      "price": 1319,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,125",
+      "currency": "INR"
+    },
+    {
+      "id": 126,
+      "name": "Doxycycline",
+      "price": 1476,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,126",
+      "currency": "INR"
+    },
+    {
+      "id": 127,
+      "name": "Prednisone",
+      "price": 709,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,127",
+      "currency": "INR"
+    },
+    {
+      "id": 128,
+      "name": "Doxycycline",
+      "price": 1072,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,128",
+      "currency": "INR"
+    },
+    {
+      "id": 129,
+      "name": "Naproxen",
+      "price": 1131,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,129",
+      "currency": "INR"
+    },
+    {
+      "id": 130,
+      "name": "Metoprolol",
+      "price": 741,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,130",
+      "currency": "INR"
+    },
+    {
+      "id": 131,
+      "name": "Metformin",
+      "price": 1051,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,131",
+      "currency": "INR"
+    },
+    {
+      "id": 132,
+      "name": "Atorvastatin",
+      "price": 412,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,132",
+      "currency": "INR"
+    },
+    {
+      "id": 133,
+      "name": "Amoxicillin",
+      "price": 1655,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,133",
+      "currency": "INR"
+    },
+    {
+      "id": 134,
+      "name": "Tamsulosin",
+      "price": 1217,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,134",
+      "currency": "INR"
+    },
+    {
+      "id": 135,
+      "name": "Allopurinol",
+      "price": 656,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,135",
+      "currency": "INR"
+    },
+    {
+      "id": 136,
+      "name": "Gabapentin",
+      "price": 1331,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,136",
+      "currency": "INR"
+    },
+    {
+      "id": 137,
+      "name": "Ciprofloxacin",
+      "price": 674,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,137",
+      "currency": "INR"
+    },
+    {
+      "id": 138,
+      "name": "Gabapentin",
+      "price": 1647,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,138",
+      "currency": "INR"
+    },
+    {
+      "id": 139,
+      "name": "Omeprazole",
+      "price": 1316,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,139",
+      "currency": "INR"
+    },
+    {
+      "id": 140,
+      "name": "Metoprolol",
+      "price": 935,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,140",
+      "currency": "INR"
+    },
+    {
+      "id": 141,
+      "name": "Paracetamol",
+      "price": 1276,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,141",
+      "currency": "INR"
+    },
+    {
+      "id": 142,
+      "name": "Ciprofloxacin",
+      "price": 515,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,142",
+      "currency": "INR"
+    },
+    {
+      "id": 143,
+      "name": "Metformin",
+      "price": 1037,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,143",
+      "currency": "INR"
+    },
+    {
+      "id": 144,
+      "name": "Cetirizine",
+      "price": 821,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,144",
+      "currency": "INR"
+    },
+    {
+      "id": 145,
+      "name": "Pantoprazole",
+      "price": 1140,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,145",
+      "currency": "INR"
+    },
+    {
+      "id": 146,
+      "name": "Tamsulosin",
+      "price": 1330,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,146",
+      "currency": "INR"
+    },
+    {
+      "id": 147,
+      "name": "Metoprolol",
+      "price": 930,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,147",
+      "currency": "INR"
+    },
+    {
+      "id": 148,
+      "name": "Gabapentin",
+      "price": 1542,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,148",
+      "currency": "INR"
+    },
+    {
+      "id": 149,
+      "name": "Hydrochlorothiazide",
+      "price": 550,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,149",
+      "currency": "INR"
+    },
+    {
+      "id": 150,
+      "name": "Levothyroxine",
+      "price": 259,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,150",
+      "currency": "INR"
+    },
+    {
+      "id": 151,
+      "name": "Tramadol",
+      "price": 1169,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,151",
+      "currency": "INR"
+    },
+    {
+      "id": 152,
+      "name": "Furosemide",
+      "price": 1303,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,152",
+      "currency": "INR"
+    },
+    {
+      "id": 153,
+      "name": "Levothyroxine",
+      "price": 891,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,153",
+      "currency": "INR"
+    },
+    {
+      "id": 154,
+      "name": "Cetirizine",
+      "price": 1465,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,154",
+      "currency": "INR"
+    },
+    {
+      "id": 155,
+      "name": "Ciprofloxacin",
+      "price": 1311,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,155",
+      "currency": "INR"
+    },
+    {
+      "id": 156,
+      "name": "Losartan",
+      "price": 1062,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,156",
+      "currency": "INR"
+    },
+    {
+      "id": 157,
+      "name": "Atorvastatin",
+      "price": 1337,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,157",
+      "currency": "INR"
+    },
+    {
+      "id": 158,
+      "name": "Hydrochlorothiazide",
+      "price": 1050,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,158",
+      "currency": "INR"
+    },
+    {
+      "id": 159,
+      "name": "Amoxicillin",
+      "price": 1441,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,159",
+      "currency": "INR"
+    },
+    {
+      "id": 160,
+      "name": "Ibuprofen",
+      "price": 973,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,160",
+      "currency": "INR"
+    },
+    {
+      "id": 161,
+      "name": "Tramadol",
+      "price": 465,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,161",
+      "currency": "INR"
+    },
+    {
+      "id": 162,
+      "name": "Pantoprazole",
+      "price": 255,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,162",
+      "currency": "INR"
+    },
+    {
+      "id": 163,
+      "name": "Doxycycline",
+      "price": 1107,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,163",
+      "currency": "INR"
+    },
+    {
+      "id": 164,
+      "name": "Doxycycline",
+      "price": 891,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,164",
+      "currency": "INR"
+    },
+    {
+      "id": 165,
+      "name": "Clopidogrel",
+      "price": 782,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,165",
+      "currency": "INR"
+    },
+    {
+      "id": 166,
+      "name": "Metoprolol",
+      "price": 588,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,166",
+      "currency": "INR"
+    },
+    {
+      "id": 167,
+      "name": "Tamsulosin",
+      "price": 969,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,167",
+      "currency": "INR"
+    },
+    {
+      "id": 168,
+      "name": "Pantoprazole",
+      "price": 663,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,168",
+      "currency": "INR"
+    },
+    {
+      "id": 169,
+      "name": "Furosemide",
+      "price": 271,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,169",
+      "currency": "INR"
+    },
+    {
+      "id": 170,
+      "name": "Doxycycline",
+      "price": 985,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,170",
+      "currency": "INR"
+    },
+    {
+      "id": 171,
+      "name": "Allopurinol",
+      "price": 437,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,171",
+      "currency": "INR"
+    },
+    {
+      "id": 172,
+      "name": "Levothyroxine",
+      "price": 740,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,172",
+      "currency": "INR"
+    },
+    {
+      "id": 173,
+      "name": "Clopidogrel",
+      "price": 935,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,173",
+      "currency": "INR"
+    },
+    {
+      "id": 174,
+      "name": "Levothyroxine",
+      "price": 930,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,174",
+      "currency": "INR"
+    },
+    {
+      "id": 175,
+      "name": "Azithromycin",
+      "price": 690,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,175",
+      "currency": "INR"
+    },
+    {
+      "id": 176,
+      "name": "Gabapentin",
+      "price": 1371,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,176",
+      "currency": "INR"
+    },
+    {
+      "id": 177,
+      "name": "Gabapentin",
+      "price": 585,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,177",
+      "currency": "INR"
+    },
+    {
+      "id": 178,
+      "name": "Levothyroxine",
+      "price": 905,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,178",
+      "currency": "INR"
+    },
+    {
+      "id": 179,
+      "name": "Aspirin",
+      "price": 811,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,179",
+      "currency": "INR"
+    },
+    {
+      "id": 180,
+      "name": "Gabapentin",
+      "price": 819,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,180",
+      "currency": "INR"
+    },
+    {
+      "id": 181,
+      "name": "Omeprazole",
+      "price": 1415,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,181",
+      "currency": "INR"
+    },
+    {
+      "id": 182,
+      "name": "Ranitidine",
+      "price": 1581,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,182",
+      "currency": "INR"
+    },
+    {
+      "id": 183,
+      "name": "Tamsulosin",
+      "price": 286,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,183",
+      "currency": "INR"
+    },
+    {
+      "id": 184,
+      "name": "Aspirin",
+      "price": 1570,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,184",
+      "currency": "INR"
+    },
+    {
+      "id": 185,
+      "name": "Hydrochlorothiazide",
+      "price": 975,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,185",
+      "currency": "INR"
+    },
+    {
+      "id": 186,
+      "name": "Aspirin",
+      "price": 744,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,186",
+      "currency": "INR"
+    },
+    {
+      "id": 187,
+      "name": "Cetirizine",
+      "price": 1485,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,187",
+      "currency": "INR"
+    },
+    {
+      "id": 188,
+      "name": "Ranitidine",
+      "price": 324,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,188",
+      "currency": "INR"
+    },
+    {
+      "id": 189,
+      "name": "Losartan",
+      "price": 607,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,189",
+      "currency": "INR"
+    },
+    {
+      "id": 190,
+      "name": "Simvastatin",
+      "price": 496,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,190",
+      "currency": "INR"
+    },
+    {
+      "id": 191,
+      "name": "Simvastatin",
+      "price": 413,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,191",
+      "currency": "INR"
+    },
+    {
+      "id": 192,
+      "name": "Ciprofloxacin",
+      "price": 1452,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,192",
+      "currency": "INR"
+    },
+    {
+      "id": 193,
+      "name": "Metoprolol",
+      "price": 1489,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,193",
+      "currency": "INR"
+    },
+    {
+      "id": 194,
+      "name": "Gabapentin",
+      "price": 635,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,194",
+      "currency": "INR"
+    },
+    {
+      "id": 195,
+      "name": "Diazepam",
+      "price": 1086,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,195",
+      "currency": "INR"
+    },
+    {
+      "id": 196,
+      "name": "Cetirizine",
+      "price": 468,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,196",
+      "currency": "INR"
+    },
+    {
+      "id": 197,
+      "name": "Sertraline",
+      "price": 1189,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,197",
+      "currency": "INR"
+    },
+    {
+      "id": 198,
+      "name": "Ciprofloxacin",
+      "price": 1652,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,198",
+      "currency": "INR"
+    },
+    {
+      "id": 199,
+      "name": "Naproxen",
+      "price": 1618,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,199",
+      "currency": "INR"
+    },
+    {
+      "id": 200,
+      "name": "Naproxen",
+      "price": 297,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,200",
+      "currency": "INR"
+    },
+    {
+      "id": 201,
+      "name": "Gabapentin",
+      "price": 1560,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,201",
+      "currency": "INR"
+    },
+    {
+      "id": 202,
+      "name": "Cetirizine",
+      "price": 431,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,202",
+      "currency": "INR"
+    },
+    {
+      "id": 203,
+      "name": "Losartan",
+      "price": 1213,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,203",
+      "currency": "INR"
+    },
+    {
+      "id": 204,
+      "name": "Sertraline",
+      "price": 266,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,204",
+      "currency": "INR"
+    },
+    {
+      "id": 205,
+      "name": "Ranitidine",
+      "price": 1031,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,205",
+      "currency": "INR"
+    },
+    {
+      "id": 206,
+      "name": "Losartan",
+      "price": 514,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,206",
+      "currency": "INR"
+    },
+    {
+      "id": 207,
+      "name": "Azithromycin",
+      "price": 1093,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,207",
+      "currency": "INR"
+    },
+    {
+      "id": 208,
+      "name": "Azithromycin",
+      "price": 442,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,208",
+      "currency": "INR"
+    },
+    {
+      "id": 209,
+      "name": "Ciprofloxacin",
+      "price": 1000,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,209",
+      "currency": "INR"
+    },
+    {
+      "id": 210,
+      "name": "Fluoxetine",
+      "price": 1277,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,210",
+      "currency": "INR"
+    },
+    {
+      "id": 211,
+      "name": "Amoxicillin",
+      "price": 1265,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,211",
+      "currency": "INR"
+    },
+    {
+      "id": 212,
+      "name": "Sertraline",
+      "price": 779,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,212",
+      "currency": "INR"
+    },
+    {
+      "id": 213,
+      "name": "Atorvastatin",
+      "price": 923,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,213",
+      "currency": "INR"
+    },
+    {
+      "id": 214,
+      "name": "Simvastatin",
+      "price": 882,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,214",
+      "currency": "INR"
+    },
+    {
+      "id": 215,
+      "name": "Amoxicillin",
+      "price": 1653,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,215",
+      "currency": "INR"
+    },
+    {
+      "id": 216,
+      "name": "Atorvastatin",
+      "price": 661,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,216",
+      "currency": "INR"
+    },
+    {
+      "id": 217,
+      "name": "Aspirin",
+      "price": 995,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,217",
+      "currency": "INR"
+    },
+    {
+      "id": 218,
+      "name": "Pantoprazole",
+      "price": 556,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,218",
+      "currency": "INR"
+    },
+    {
+      "id": 219,
+      "name": "Omeprazole",
+      "price": 550,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,219",
+      "currency": "INR"
+    },
+    {
+      "id": 220,
+      "name": "Gabapentin",
+      "price": 1169,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,220",
+      "currency": "INR"
+    },
+    {
+      "id": 221,
+      "name": "Loratadine",
+      "price": 393,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,221",
+      "currency": "INR"
+    },
+    {
+      "id": 222,
+      "name": "Loratadine",
+      "price": 1630,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,222",
+      "currency": "INR"
+    },
+    {
+      "id": 223,
+      "name": "Allopurinol",
+      "price": 632,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,223",
+      "currency": "INR"
+    },
+    {
+      "id": 224,
+      "name": "Ibuprofen",
+      "price": 857,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,224",
+      "currency": "INR"
+    },
+    {
+      "id": 225,
+      "name": "Tramadol",
+      "price": 1511,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,225",
+      "currency": "INR"
+    },
+    {
+      "id": 226,
+      "name": "Amoxicillin",
+      "price": 332,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,226",
+      "currency": "INR"
+    },
+    {
+      "id": 227,
+      "name": "Hydrochlorothiazide",
+      "price": 497,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,227",
+      "currency": "INR"
+    },
+    {
+      "id": 228,
+      "name": "Azithromycin",
+      "price": 1405,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,228",
+      "currency": "INR"
+    },
+    {
+      "id": 229,
+      "name": "Tamsulosin",
+      "price": 320,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,229",
+      "currency": "INR"
+    },
+    {
+      "id": 230,
+      "name": "Tramadol",
+      "price": 419,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,230",
+      "currency": "INR"
+    },
+    {
+      "id": 231,
+      "name": "Pantoprazole",
+      "price": 738,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,231",
+      "currency": "INR"
+    },
+    {
+      "id": 232,
+      "name": "Fluoxetine",
+      "price": 369,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,232",
+      "currency": "INR"
+    },
+    {
+      "id": 233,
+      "name": "Naproxen",
+      "price": 630,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,233",
+      "currency": "INR"
+    },
+    {
+      "id": 234,
+      "name": "Doxycycline",
+      "price": 1523,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,234",
+      "currency": "INR"
+    },
+    {
+      "id": 235,
+      "name": "Cetirizine",
+      "price": 1554,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,235",
+      "currency": "INR"
+    },
+    {
+      "id": 236,
+      "name": "Losartan",
+      "price": 284,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,236",
+      "currency": "INR"
+    },
+    {
+      "id": 237,
+      "name": "Tramadol",
+      "price": 1041,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,237",
+      "currency": "INR"
+    },
+    {
+      "id": 238,
+      "name": "Gabapentin",
+      "price": 1371,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,238",
+      "currency": "INR"
+    },
+    {
+      "id": 239,
+      "name": "Amoxicillin",
+      "price": 1343,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,239",
+      "currency": "INR"
+    },
+    {
+      "id": 240,
+      "name": "Ciprofloxacin",
+      "price": 1311,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,240",
+      "currency": "INR"
+    },
+    {
+      "id": 241,
+      "name": "Fluoxetine",
+      "price": 1612,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,241",
+      "currency": "INR"
+    },
+    {
+      "id": 242,
+      "name": "Metformin",
+      "price": 1077,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,242",
+      "currency": "INR"
+    },
+    {
+      "id": 243,
+      "name": "Sertraline",
+      "price": 798,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,243",
+      "currency": "INR"
+    },
+    {
+      "id": 244,
+      "name": "Pantoprazole",
+      "price": 1555,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,244",
+      "currency": "INR"
+    },
+    {
+      "id": 245,
+      "name": "Loratadine",
+      "price": 1117,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,245",
+      "currency": "INR"
+    },
+    {
+      "id": 246,
+      "name": "Aspirin",
+      "price": 583,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,246",
+      "currency": "INR"
+    },
+    {
+      "id": 247,
+      "name": "Gabapentin",
+      "price": 886,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,247",
+      "currency": "INR"
+    },
+    {
+      "id": 248,
+      "name": "Losartan",
+      "price": 1416,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,248",
+      "currency": "INR"
+    },
+    {
+      "id": 249,
+      "name": "Hydrochlorothiazide",
+      "price": 603,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,249",
+      "currency": "INR"
+    },
+    {
+      "id": 250,
+      "name": "Fluoxetine",
+      "price": 601,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,250",
+      "currency": "INR"
+    },
+    {
+      "id": 251,
+      "name": "Clopidogrel",
+      "price": 402,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,251",
+      "currency": "INR"
+    },
+    {
+      "id": 252,
+      "name": "Allopurinol",
+      "price": 896,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,252",
+      "currency": "INR"
+    },
+    {
+      "id": 253,
+      "name": "Allopurinol",
+      "price": 987,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,253",
+      "currency": "INR"
+    },
+    {
+      "id": 254,
+      "name": "Simvastatin",
+      "price": 1131,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,254",
+      "currency": "INR"
+    },
+    {
+      "id": 255,
+      "name": "Loratadine",
+      "price": 670,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,255",
+      "currency": "INR"
+    },
+    {
+      "id": 256,
+      "name": "Levothyroxine",
+      "price": 271,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,256",
+      "currency": "INR"
+    },
+    {
+      "id": 257,
+      "name": "Tamsulosin",
+      "price": 759,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,257",
+      "currency": "INR"
+    },
+    {
+      "id": 258,
+      "name": "Paracetamol",
+      "price": 972,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,258",
+      "currency": "INR"
+    },
+    {
+      "id": 259,
+      "name": "Clopidogrel",
+      "price": 1255,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,259",
+      "currency": "INR"
+    },
+    {
+      "id": 260,
+      "name": "Gabapentin",
+      "price": 1458,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,260",
+      "currency": "INR"
+    },
+    {
+      "id": 261,
+      "name": "Diazepam",
+      "price": 886,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,261",
+      "currency": "INR"
+    },
+    {
+      "id": 262,
+      "name": "Doxycycline",
+      "price": 896,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,262",
+      "currency": "INR"
+    },
+    {
+      "id": 263,
+      "name": "Omeprazole",
+      "price": 519,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,263",
+      "currency": "INR"
+    },
+    {
+      "id": 264,
+      "name": "Metformin",
+      "price": 635,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,264",
+      "currency": "INR"
+    },
+    {
+      "id": 265,
+      "name": "Naproxen",
+      "price": 897,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,265",
+      "currency": "INR"
+    },
+    {
+      "id": 266,
+      "name": "Paracetamol",
+      "price": 1172,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,266",
+      "currency": "INR"
+    },
+    {
+      "id": 267,
+      "name": "Ciprofloxacin",
+      "price": 664,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,267",
+      "currency": "INR"
+    },
+    {
+      "id": 268,
+      "name": "Losartan",
+      "price": 1535,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,268",
+      "currency": "INR"
+    },
+    {
+      "id": 269,
+      "name": "Clopidogrel",
+      "price": 1180,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,269",
+      "currency": "INR"
+    },
+    {
+      "id": 270,
+      "name": "Sertraline",
+      "price": 1164,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,270",
+      "currency": "INR"
+    },
+    {
+      "id": 271,
+      "name": "Allopurinol",
+      "price": 836,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,271",
+      "currency": "INR"
+    },
+    {
+      "id": 272,
+      "name": "Diazepam",
+      "price": 1188,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,272",
+      "currency": "INR"
+    },
+    {
+      "id": 273,
+      "name": "Allopurinol",
+      "price": 258,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,273",
+      "currency": "INR"
+    },
+    {
+      "id": 274,
+      "name": "Ranitidine",
+      "price": 1547,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,274",
+      "currency": "INR"
+    },
+    {
+      "id": 275,
+      "name": "Metformin",
+      "price": 1207,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,275",
+      "currency": "INR"
+    },
+    {
+      "id": 276,
+      "name": "Ranitidine",
+      "price": 1393,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,276",
+      "currency": "INR"
+    },
+    {
+      "id": 277,
+      "name": "Hydrochlorothiazide",
+      "price": 1523,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,277",
+      "currency": "INR"
+    },
+    {
+      "id": 278,
+      "name": "Fluoxetine",
+      "price": 1479,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,278",
+      "currency": "INR"
+    },
+    {
+      "id": 279,
+      "name": "Loratadine",
+      "price": 596,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,279",
+      "currency": "INR"
+    },
+    {
+      "id": 280,
+      "name": "Metoprolol",
+      "price": 1506,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,280",
+      "currency": "INR"
+    },
+    {
+      "id": 281,
+      "name": "Ranitidine",
+      "price": 622,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,281",
+      "currency": "INR"
+    },
+    {
+      "id": 282,
+      "name": "Losartan",
+      "price": 383,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,282",
+      "currency": "INR"
+    },
+    {
+      "id": 283,
+      "name": "Fluoxetine",
+      "price": 1223,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,283",
+      "currency": "INR"
+    },
+    {
+      "id": 284,
+      "name": "Azithromycin",
+      "price": 846,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,284",
+      "currency": "INR"
+    },
+    {
+      "id": 285,
+      "name": "Amoxicillin",
+      "price": 1194,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,285",
+      "currency": "INR"
+    },
+    {
+      "id": 286,
+      "name": "Ibuprofen",
+      "price": 305,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,286",
+      "currency": "INR"
+    },
+    {
+      "id": 287,
+      "name": "Doxycycline",
+      "price": 262,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,287",
+      "currency": "INR"
+    },
+    {
+      "id": 288,
+      "name": "Ranitidine",
+      "price": 1633,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,288",
+      "currency": "INR"
+    },
+    {
+      "id": 289,
+      "name": "Levothyroxine",
+      "price": 1190,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,289",
+      "currency": "INR"
+    },
+    {
+      "id": 290,
+      "name": "Metoprolol",
+      "price": 1125,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,290",
+      "currency": "INR"
+    },
+    {
+      "id": 291,
+      "name": "Sertraline",
+      "price": 1160,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,291",
+      "currency": "INR"
+    },
+    {
+      "id": 292,
+      "name": "Gabapentin",
+      "price": 1184,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,292",
+      "currency": "INR"
+    },
+    {
+      "id": 293,
+      "name": "Gabapentin",
+      "price": 891,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,293",
+      "currency": "INR"
+    },
+    {
+      "id": 294,
+      "name": "Fluoxetine",
+      "price": 1185,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,294",
+      "currency": "INR"
+    },
+    {
+      "id": 295,
+      "name": "Sertraline",
+      "price": 872,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,295",
+      "currency": "INR"
+    },
+    {
+      "id": 296,
+      "name": "Fluoxetine",
+      "price": 1573,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,296",
+      "currency": "INR"
+    },
+    {
+      "id": 297,
+      "name": "Ciprofloxacin",
+      "price": 266,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,297",
+      "currency": "INR"
+    },
+    {
+      "id": 298,
+      "name": "Tamsulosin",
+      "price": 353,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,298",
+      "currency": "INR"
+    },
+    {
+      "id": 299,
+      "name": "Paracetamol",
+      "price": 1473,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,299",
+      "currency": "INR"
+    },
+    {
+      "id": 300,
+      "name": "Aspirin",
+      "price": 1068,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,300",
+      "currency": "INR"
+    },
+    {
+      "id": 301,
+      "name": "Loratadine",
+      "price": 757,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,301",
+      "currency": "INR"
+    },
+    {
+      "id": 302,
+      "name": "Clopidogrel",
+      "price": 1372,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,302",
+      "currency": "INR"
+    },
+    {
+      "id": 303,
+      "name": "Doxycycline",
+      "price": 1560,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,303",
+      "currency": "INR"
+    },
+    {
+      "id": 304,
+      "name": "Aspirin",
+      "price": 1488,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,304",
+      "currency": "INR"
+    },
+    {
+      "id": 305,
+      "name": "Tamsulosin",
+      "price": 1625,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,305",
+      "currency": "INR"
+    },
+    {
+      "id": 306,
+      "name": "Gabapentin",
+      "price": 1244,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,306",
+      "currency": "INR"
+    },
+    {
+      "id": 307,
+      "name": "Azithromycin",
+      "price": 314,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,307",
+      "currency": "INR"
+    },
+    {
+      "id": 308,
+      "name": "Omeprazole",
+      "price": 454,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,308",
+      "currency": "INR"
+    },
+    {
+      "id": 309,
+      "name": "Ibuprofen",
+      "price": 320,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,309",
+      "currency": "INR"
+    },
+    {
+      "id": 310,
+      "name": "Simvastatin",
+      "price": 373,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,310",
+      "currency": "INR"
+    },
+    {
+      "id": 311,
+      "name": "Ciprofloxacin",
+      "price": 1496,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,311",
+      "currency": "INR"
+    },
+    {
+      "id": 312,
+      "name": "Cetirizine",
+      "price": 935,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,312",
+      "currency": "INR"
+    },
+    {
+      "id": 313,
+      "name": "Prednisone",
+      "price": 1360,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,313",
+      "currency": "INR"
+    },
+    {
+      "id": 314,
+      "name": "Allopurinol",
+      "price": 986,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,314",
+      "currency": "INR"
+    },
+    {
+      "id": 315,
+      "name": "Simvastatin",
+      "price": 1515,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,315",
+      "currency": "INR"
+    },
+    {
+      "id": 316,
+      "name": "Doxycycline",
+      "price": 1495,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,316",
+      "currency": "INR"
+    },
+    {
+      "id": 317,
+      "name": "Aspirin",
+      "price": 1262,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,317",
+      "currency": "INR"
+    },
+    {
+      "id": 318,
+      "name": "Fluoxetine",
+      "price": 954,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,318",
+      "currency": "INR"
+    },
+    {
+      "id": 319,
+      "name": "Doxycycline",
+      "price": 1498,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,319",
+      "currency": "INR"
+    },
+    {
+      "id": 320,
+      "name": "Omeprazole",
+      "price": 780,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,320",
+      "currency": "INR"
+    },
+    {
+      "id": 321,
+      "name": "Doxycycline",
+      "price": 1397,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,321",
+      "currency": "INR"
+    },
+    {
+      "id": 322,
+      "name": "Ibuprofen",
+      "price": 1364,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,322",
+      "currency": "INR"
+    },
+    {
+      "id": 323,
+      "name": "Cetirizine",
+      "price": 1282,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,323",
+      "currency": "INR"
+    },
+    {
+      "id": 324,
+      "name": "Ibuprofen",
+      "price": 890,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,324",
+      "currency": "INR"
+    },
+    {
+      "id": 325,
+      "name": "Metformin",
+      "price": 447,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,325",
+      "currency": "INR"
+    },
+    {
+      "id": 326,
+      "name": "Furosemide",
+      "price": 1301,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,326",
+      "currency": "INR"
+    },
+    {
+      "id": 327,
+      "name": "Azithromycin",
+      "price": 1255,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,327",
+      "currency": "INR"
+    },
+    {
+      "id": 328,
+      "name": "Tamsulosin",
+      "price": 1638,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,328",
+      "currency": "INR"
+    },
+    {
+      "id": 329,
+      "name": "Atorvastatin",
+      "price": 541,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,329",
+      "currency": "INR"
+    },
+    {
+      "id": 330,
+      "name": "Doxycycline",
+      "price": 796,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,330",
+      "currency": "INR"
+    },
+    {
+      "id": 331,
+      "name": "Clopidogrel",
+      "price": 1438,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,331",
+      "currency": "INR"
+    },
+    {
+      "id": 332,
+      "name": "Doxycycline",
+      "price": 1384,
+      "description": "Diabetes management",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,332",
+      "currency": "INR"
+    },
+    {
+      "id": 333,
+      "name": "Losartan",
+      "price": 1141,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,333",
+      "currency": "INR"
+    },
+    {
+      "id": 334,
+      "name": "Cetirizine",
+      "price": 1479,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,334",
+      "currency": "INR"
+    },
+    {
+      "id": 335,
+      "name": "Atorvastatin",
+      "price": 915,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,335",
+      "currency": "INR"
+    },
+    {
+      "id": 336,
+      "name": "Aspirin",
+      "price": 1028,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,336",
+      "currency": "INR"
+    },
+    {
+      "id": 337,
+      "name": "Clopidogrel",
+      "price": 293,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,337",
+      "currency": "INR"
+    },
+    {
+      "id": 338,
+      "name": "Loratadine",
+      "price": 1612,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,338",
+      "currency": "INR"
+    },
+    {
+      "id": 339,
+      "name": "Ibuprofen",
+      "price": 1452,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,339",
+      "currency": "INR"
+    },
+    {
+      "id": 340,
+      "name": "Doxycycline",
+      "price": 1357,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,340",
+      "currency": "INR"
+    },
+    {
+      "id": 341,
+      "name": "Hydrochlorothiazide",
+      "price": 324,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,341",
+      "currency": "INR"
+    },
+    {
+      "id": 342,
+      "name": "Clopidogrel",
+      "price": 1174,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,342",
+      "currency": "INR"
+    },
+    {
+      "id": 343,
+      "name": "Furosemide",
+      "price": 1476,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,343",
+      "currency": "INR"
+    },
+    {
+      "id": 344,
+      "name": "Loratadine",
+      "price": 439,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,344",
+      "currency": "INR"
+    },
+    {
+      "id": 345,
+      "name": "Omeprazole",
+      "price": 906,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,345",
+      "currency": "INR"
+    },
+    {
+      "id": 346,
+      "name": "Prednisone",
+      "price": 1403,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,346",
+      "currency": "INR"
+    },
+    {
+      "id": 347,
+      "name": "Pantoprazole",
+      "price": 298,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,347",
+      "currency": "INR"
+    },
+    {
+      "id": 348,
+      "name": "Gabapentin",
+      "price": 1639,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,348",
+      "currency": "INR"
+    },
+    {
+      "id": 349,
+      "name": "Metformin",
+      "price": 732,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,349",
+      "currency": "INR"
+    },
+    {
+      "id": 350,
+      "name": "Omeprazole",
+      "price": 334,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,350",
+      "currency": "INR"
+    },
+    {
+      "id": 351,
+      "name": "Pantoprazole",
+      "price": 883,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,351",
+      "currency": "INR"
+    },
+    {
+      "id": 352,
+      "name": "Doxycycline",
+      "price": 1555,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,352",
+      "currency": "INR"
+    },
+    {
+      "id": 353,
+      "name": "Diazepam",
+      "price": 1632,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,353",
+      "currency": "INR"
+    },
+    {
+      "id": 354,
+      "name": "Ciprofloxacin",
+      "price": 1528,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,354",
+      "currency": "INR"
+    },
+    {
+      "id": 355,
+      "name": "Furosemide",
+      "price": 1266,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,355",
+      "currency": "INR"
+    },
+    {
+      "id": 356,
+      "name": "Levothyroxine",
+      "price": 369,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,356",
+      "currency": "INR"
+    },
+    {
+      "id": 357,
+      "name": "Cetirizine",
+      "price": 400,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,357",
+      "currency": "INR"
+    },
+    {
+      "id": 358,
+      "name": "Aspirin",
+      "price": 482,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,358",
+      "currency": "INR"
+    },
+    {
+      "id": 359,
+      "name": "Doxycycline",
+      "price": 371,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,359",
+      "currency": "INR"
+    },
+    {
+      "id": 360,
+      "name": "Ciprofloxacin",
+      "price": 315,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,360",
+      "currency": "INR"
+    },
+    {
+      "id": 361,
+      "name": "Sertraline",
+      "price": 554,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,361",
+      "currency": "INR"
+    },
+    {
+      "id": 362,
+      "name": "Simvastatin",
+      "price": 397,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,362",
+      "currency": "INR"
+    },
+    {
+      "id": 363,
+      "name": "Ranitidine",
+      "price": 273,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,363",
+      "currency": "INR"
+    },
+    {
+      "id": 364,
+      "name": "Gabapentin",
+      "price": 1027,
+      "description": "Pain reliever and anti-inflammatory",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,364",
+      "currency": "INR"
+    },
+    {
+      "id": 365,
+      "name": "Atorvastatin",
+      "price": 1307,
+      "description": "Cholesterol-lowering medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,365",
+      "currency": "INR"
+    },
+    {
+      "id": 366,
+      "name": "Hydrochlorothiazide",
+      "price": 624,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,366",
+      "currency": "INR"
+    },
+    {
+      "id": 367,
+      "name": "Loratadine",
+      "price": 1092,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,367",
+      "currency": "INR"
+    },
+    {
+      "id": 368,
+      "name": "Prednisone",
+      "price": 847,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,368",
+      "currency": "INR"
+    },
+    {
+      "id": 369,
+      "name": "Ibuprofen",
+      "price": 1039,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,369",
+      "currency": "INR"
+    },
+    {
+      "id": 370,
+      "name": "Omeprazole",
+      "price": 969,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,370",
+      "currency": "INR"
+    },
+    {
+      "id": 371,
+      "name": "Ibuprofen",
+      "price": 726,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,371",
+      "currency": "INR"
+    },
+    {
+      "id": 372,
+      "name": "Atorvastatin",
+      "price": 266,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,372",
+      "currency": "INR"
+    },
+    {
+      "id": 373,
+      "name": "Levothyroxine",
+      "price": 608,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,373",
+      "currency": "INR"
+    },
+    {
+      "id": 374,
+      "name": "Diazepam",
+      "price": 1628,
+      "description": "Antihistamine for allergy relief",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,374",
+      "currency": "INR"
+    },
+    {
+      "id": 375,
+      "name": "Loratadine",
+      "price": 1075,
+      "description": "Used to treat infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,375",
+      "currency": "INR"
+    },
+    {
+      "id": 376,
+      "name": "Allopurinol",
+      "price": 1466,
+      "description": "Relieves anxiety",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,376",
+      "currency": "INR"
+    },
+    {
+      "id": 377,
+      "name": "Ranitidine",
+      "price": 1057,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,377",
+      "currency": "INR"
+    },
+    {
+      "id": 378,
+      "name": "Allopurinol",
+      "price": 491,
+      "description": "Blood pressure medication",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,378",
+      "currency": "INR"
+    },
+    {
+      "id": 379,
+      "name": "Metoprolol",
+      "price": 676,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,379",
+      "currency": "INR"
+    },
+    {
+      "id": 380,
+      "name": "Fluoxetine",
+      "price": 745,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,380",
+      "currency": "INR"
+    },
+    {
+      "id": 381,
+      "name": "Ibuprofen",
+      "price": 710,
+      "description": "Proton pump inhibitor for acid reflux",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,381",
+      "currency": "INR"
+    },
+    {
+      "id": 382,
+      "name": "Doxycycline",
+      "price": 1332,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,382",
+      "currency": "INR"
+    },
+    {
+      "id": 383,
+      "name": "Loratadine",
+      "price": 598,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,383",
+      "currency": "INR"
+    },
+    {
+      "id": 384,
+      "name": "Omeprazole",
+      "price": 281,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,384",
+      "currency": "INR"
+    },
+    {
+      "id": 385,
+      "name": "Metoprolol",
+      "price": 1073,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,385",
+      "currency": "INR"
+    },
+    {
+      "id": 386,
+      "name": "Simvastatin",
+      "price": 1142,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,386",
+      "currency": "INR"
+    },
+    {
+      "id": 387,
+      "name": "Tamsulosin",
+      "price": 1208,
+      "description": "Helps with sleep disorders",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,387",
+      "currency": "INR"
+    },
+    {
+      "id": 388,
+      "name": "Levothyroxine",
+      "price": 1072,
+      "description": "Fever reducer and pain reliever",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,388",
+      "currency": "INR"
+    },
+    {
+      "id": 389,
+      "name": "Fluoxetine",
+      "price": 1283,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,389",
+      "currency": "INR"
+    },
+    {
+      "id": 390,
+      "name": "Loratadine",
+      "price": 1602,
+      "description": "Improves heart function",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,390",
+      "currency": "INR"
+    },
+    {
+      "id": 391,
+      "name": "Hydrochlorothiazide",
+      "price": 1188,
+      "description": "Non-drowsy antihistamine",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,391",
+      "currency": "INR"
+    },
+    {
+      "id": 392,
+      "name": "Atorvastatin",
+      "price": 454,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,392",
+      "currency": "INR"
+    },
+    {
+      "id": 393,
+      "name": "Cetirizine",
+      "price": 825,
+      "description": "Anti-inflammatory drug",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,393",
+      "currency": "INR"
+    },
+    {
+      "id": 394,
+      "name": "Losartan",
+      "price": 946,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,394",
+      "currency": "INR"
+    },
+    {
+      "id": 395,
+      "name": "Aspirin",
+      "price": 520,
+      "description": "Treats nerve pain",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,395",
+      "currency": "INR"
+    },
+    {
+      "id": 396,
+      "name": "Atorvastatin",
+      "price": 855,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,396",
+      "currency": "INR"
+    },
+    {
+      "id": 397,
+      "name": "Losartan",
+      "price": 601,
+      "description": "Reduces inflammation",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,397",
+      "currency": "INR"
+    },
+    {
+      "id": 398,
+      "name": "Omeprazole",
+      "price": 255,
+      "description": "Antidepressant",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,398",
+      "currency": "INR"
+    },
+    {
+      "id": 399,
+      "name": "Simvastatin",
+      "price": 515,
+      "description": "Treats bacterial infections",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,399",
+      "currency": "INR"
+    },
+    {
+      "id": 400,
+      "name": "Pantoprazole",
+      "price": 1609,
+      "description": "Reduces stomach acid",
+      "image": "https://source.unsplash.com/random/150x150/?medicine,pills,400",
+      "currency": "INR"
+    }
+  ]
