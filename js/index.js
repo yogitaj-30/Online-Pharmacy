@@ -17,21 +17,6 @@ prescriptionUpload.addEventListener("change", () => {
     }
 });
 
-// let debounceTimer;
-
-// searchInput.addEventListener("input", () => {
-//     clearTimeout(debounceTimer);
-//     const query = searchInput.value.trim().toLowerCase();
-
-//     debounceTimer = setTimeout(() => {
-//         if (query) {
-//             searchMedicines(query);
-//         } else {
-//             suggestionList.innerHTML = ""
-//         }
-//     }, 300);
-// });
-
 function debounce(func, delay) {
     let timerId;
     return function (...args) {
