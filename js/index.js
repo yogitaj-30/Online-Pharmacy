@@ -17,22 +17,42 @@ prescriptionUpload.addEventListener("change", () => {
     }
 });
 
-let debounceTimer;
+// let debounceTimer;
 
-searchInput.addEventListener("input", () => {
-    clearTimeout(debounceTimer);
-    const query = searchInput.value.trim().toLowerCase();
+// searchInput.addEventListener("input", () => {
+//     clearTimeout(debounceTimer);
+//     const query = searchInput.value.trim().toLowerCase();
 
-    debounceTimer = setTimeout(() => {
-        if (query) {
-            searchMedicines(query);
-        } else {
-            suggestionList.innerHTML = ""
-        }
-    }, 300);
-});
+//     debounceTimer = setTimeout(() => {
+//         if (query) {
+//             searchMedicines(query);
+//         } else {
+//             suggestionList.innerHTML = ""
+//         }
+//     }, 300);
+// });
+
+function debounce(func, delay) {
+    let timerId;
+    return function (...args) {
+        clearTimeout(timerId);
+        timerId = setTimeout(() => {
+            func.apply(this, args)
+        }, delay);
+    }
+}
+
+let debouncedFetch = debounce(searchMedicines, 300);
+
+searchInput.addEventListener("input", function (e) {
+    debouncedFetch(e.target.value);
+})
 
 function searchMedicines(query) {
+    if (!query) {
+        suggestionList.innerHTML = "";
+        return;
+    }
     const dbRef = ref(db);
     get(child(dbRef, "medicines")).then(snapshot => {
         if (snapshot.exists()) {
